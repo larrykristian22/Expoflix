@@ -1,2 +1,0 @@
-# Expoflix
-App Expoflix 
